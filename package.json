@@ -20,7 +20,7 @@
   "dependencies": {
     "express": "^4.17.1"
   },
-  "engine.node": {
+  "engine": {
     "node": "12.11.1"
   }
 }
